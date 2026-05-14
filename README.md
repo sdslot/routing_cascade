@@ -29,4 +29,4 @@
 Подключитесь к вашему VPS серверу в РФ (Ubuntu/Debian) и выполните одну команду, далее просто следуйте инструкциям:
 
 ```bash
-wget -O routing.sh https://raw.githubusercontent.com/sdslot/routing_cascade/refs/heads/master/routing.sh && chmod +x routing.sh && ./routing.sh
+wget -O routing.sh https://raw.githubusercontent.com/sdslot/routing_cascade/refs/heads/main/routing.sh && chmod +x routing.sh && ./routing.sh
